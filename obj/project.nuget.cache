@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8CWGk6RRZ/g3zJX4mwlm1kLrobn+wCEbbo4yZfl5Ec9sPerA6zbcUkc+I0FWYU+4iBRlZuPNQNAT7DoE2GgVvw==",
+  "dgSpecHash": "wmRBPmE9JPPZDpiV5k9fRvemEjZHAagLGjYCN6w7pYuTBcZf+QFzy/ZJfPWu9QRn+YF56869pkssy2MPPl9MBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj",
+  "projectFilePath": "c:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

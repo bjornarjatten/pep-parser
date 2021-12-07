@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj": {}
+    "c:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj": {
+    "c:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj",
+        "projectUniqueName": "c:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj",
         "projectName": "pep-parser",
-        "projectPath": "C:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj",
+        "projectPath": "c:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj",
         "packagesPath": "C:\\Users\\bjorn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\obj\\",
+        "outputPath": "c:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bjorn\\AppData\\Roaming\\NuGet\\NuGet.Config",
