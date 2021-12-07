@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj": {}
+    "C:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj": {
+    "C:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj",
+        "projectUniqueName": "C:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj",
         "projectName": "pep-parser",
-        "projectPath": "c:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj",
+        "projectPath": "C:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj",
         "packagesPath": "C:\\Users\\bjorn\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\obj\\",
+        "outputPath": "C:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bjorn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.7.0-develop00310, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

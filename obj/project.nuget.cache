@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "wmRBPmE9JPPZDpiV5k9fRvemEjZHAagLGjYCN6w7pYuTBcZf+QFzy/ZJfPWu9QRn+YF56869pkssy2MPPl9MBQ==",
+  "dgSpecHash": "kL0v5yPFHG+Kuq1Ciqt4XVV0qmvL3i+Lx4JqpiLU3cB4t7UaeCz+LuC9aaIf2/T5lBxTi5bsWAZlHdrTDDDgvA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "C:\\Users\\bjorn\\Documents\\GitHub\\pep-parser\\pep-parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bjorn\\.nuget\\packages\\exceldatareader\\3.7.0-develop00310\\exceldatareader.3.7.0-develop00310.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Your request could not be authenticated by the GitHub Packages service. Please ensure your access token is valid and has the appropriate scopes configured."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Your request could not be authenticated by the GitHub Packages service. Please ensure your access token is valid and has the appropriate scopes configured."
+    }
+  ]
 }
