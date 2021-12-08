@@ -2,6 +2,7 @@ using System;
 
 namespace pep_parser
 {
+    // Just a simple class holding the given properties from the excelsheet
     class PEPperson
     {
         public string FirstName { get; set; }

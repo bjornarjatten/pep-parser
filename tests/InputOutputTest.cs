@@ -3,9 +3,10 @@ using pep_parser;
 
 namespace tests
 {
-    public class UnitTest1
+    public class InputOutputTest
     {
         [Fact]
+        // Tests if the name of people on the PEP-list exist.
         public void CheckIfExistingNamesIsFound()
         {
             Program.ParseExcelSheet("../../../../src/data/PEP_listen.xlsx", 900);
@@ -24,6 +25,7 @@ namespace tests
         }
 
         [Fact]
+        // Tests if the name of Norwegian politicans excist in the list (which it should not)
         public void CheckIfNonExistingNamesIsNotFound()
         {
             Program.ParseExcelSheet("../../../../src/data/PEP_listen.xlsx", 900);
