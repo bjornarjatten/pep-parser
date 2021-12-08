@@ -2,12 +2,14 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+/* An open source library under the MIT License for parsing Excel files in C# */
 using ExcelDataReader;
 
 namespace pep_parser
 {
-    class ExcelParser
+    public class ExcelParser
     {
+
         List<PEPperson> persons = new List<PEPperson>();
 
         public ExcelParser(string filePath, int maxRows)
